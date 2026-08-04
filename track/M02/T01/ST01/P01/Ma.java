@@ -1,6 +1,6 @@
 public class Ma{
     public static void main(String args[]){
-        int num=0;
+        int num=90;
         if(num>0){
             System.out.println("The Number is positive");
 
